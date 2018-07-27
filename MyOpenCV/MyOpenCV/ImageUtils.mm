@@ -176,24 +176,6 @@ Mat CustomImageToMat(const UIImage *image) {
     CGContextRelease(outContextRef);
     
     return resultImage;
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    return nil;
 }
 
 @end
